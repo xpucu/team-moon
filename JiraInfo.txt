@@ -1,0 +1,5 @@
+Jira account:
+https://catgallery.atlassian.net/
+
+Username: cat_gallery@abv.bg	
+password: aa101010
